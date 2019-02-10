@@ -9,3 +9,6 @@ class LoginForm(FlaskForm):
     remember_me = BooleanField('Remember Me')
     submit = SubmitField('Sign In')
 
+
+#this is to check how git reacts to changes in codes
+
